@@ -1,4 +1,4 @@
-https://drive.google.com/file/d/1Mtk8CPGDVFNfXY4N6tXnh9dYAqLTO1L1/view?usp=sharing 에 들어가서 압축을 푸시고
+[link](https://drive.google.com/file/d/1Mtk8CPGDVFNfXY4N6tXnh9dYAqLTO1L1/view?usp=sharing) 에 들어가서 압축을 푸시고
 테스트를 위해서는 가상 환경에서 pip install -r req.txt 를 실행해주시고 (tensorflow는 따로 설치하시는 것을 권장합니다.)
 fire_seg.ipynb 파일의 모든 셀을 실행해주시고 마지막 셀의 결과를 확인하시면 됩니다.
 
